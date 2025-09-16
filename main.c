@@ -1,2 +1,7 @@
 #include <stdio.h>
- jjkb
+
+ int main (){
+   // practice
+    printf("hello world!\n");
+    return 0;
+ }
